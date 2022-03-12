@@ -21,7 +21,7 @@ import Files
 ---------------------------------------------------------------------*/
 
 @import url(normalize.css);
-@import url(icomoon.css);
+/*@import url(icomoon.css);*/
 @import url(font-awesome.min.css);
 @import url(owl.carousel.min.css);
 @import url(nice-select.css);
